@@ -41,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'lycomponents-services [org.eclipse.jetty:jetty-maven-plugin:9.3.0.M0:run]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'lycomponents-services [org.eclipse.jetty:jetty-maven-plugin:9.3.0.M0:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'start'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -65,11 +73,27 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'lycomponents-oauth2 [org.mortbay.jetty:jetty-maven-plugin:8.1.16.v20140903:run]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'lycomponents-oauth2 [org.mortbay.jetty:jetty-maven-plugin:8.1.16.v20140903:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'lycomponents-oauth2 [org.mortbay.jetty:jetty-maven-plugin:8.1.16.v20140903:start]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'lycomponents-oauth2 [org.mortbay.jetty:jetty-maven-plugin:8.1.16.v20140903:start]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'lycomponents-services [org.eclipse.jetty:jetty-maven-plugin:9.3.0.M0:run]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'lycomponents-services [org.eclipse.jetty:jetty-maven-plugin:9.3.0.M0:run]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -102,6 +126,14 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
