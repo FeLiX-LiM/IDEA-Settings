@@ -65,6 +65,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'lycomponents-oauth2 [org.mortbay.jetty:jetty-maven-plugin:8.1.16.v20140903:start]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'lycomponents-oauth2 [org.mortbay.jetty:jetty-maven-plugin:8.1.16.v20140903:start]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'start-alpha'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
