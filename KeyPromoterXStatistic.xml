@@ -65,6 +65,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove Module">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove Module</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'guide-web [install]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
