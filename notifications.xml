@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Iedis" shouldLog="false" />
+  </component>
+</application>
