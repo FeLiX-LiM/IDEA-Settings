@@ -1,4 +1,9 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="develop a new approach to result transformers" />
+    </histories>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
   </component>
