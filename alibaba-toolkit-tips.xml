@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="dazzle-js" firstStartUp="false" />
+    <entry projectName="history-data-util" firstStartUp="false" />
     <entry projectName="yd" firstStartUp="false" />
   </component>
 </application>
