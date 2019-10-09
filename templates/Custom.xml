@@ -1,6 +1,6 @@
 <templateSet group="Custom">
-  <template name="&lt;abbreviation&gt;" value="/** &#10; * TODO Description:  &#10; *   &#10; * @author $USER$  &#10; * @date $DATE$ $TIME$  &#10; */&#10;" toReformat="false" toShortenFQNames="true">
-    <variable name="USER" expression="" defaultValue="linxinjie@fancybull.cn" alwaysStopAt="false" />
+  <template name="ccc" value="/** &#10; * TODO Description:  &#10; *   &#10; * @author $USER$  &#10; * @date $DATE$ $TIME$  &#10; */&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="linxinjie@fancybull.cn" alwaysStopAt="false" />
     <variable name="DATE" expression="date(&quot;yyyy/MM/dd&quot;)" defaultValue="" alwaysStopAt="false" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
     <context>
