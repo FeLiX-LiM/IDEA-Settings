@@ -19,8 +19,8 @@
     <mask>*.js</mask>
     <mask>*Register.java</mask>
     <mask>*Departure.java</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
