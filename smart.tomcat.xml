@@ -1,0 +1,11 @@
+<application>
+  <component name="ServerConfiguration">
+    <option name="tomcatInfos">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 8.5.50" />
+        <option name="path" value="/usr/local/Cellar/tomcat@8/8.5.50/libexec" />
+        <option name="version" value="8.5.50.0" />
+      </TomcatInfo>
+    </option>
+  </component>
+</application>
