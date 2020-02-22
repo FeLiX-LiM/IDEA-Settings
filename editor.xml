@@ -7,4 +7,10 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="aliasQualification" value="Never" />
+    <option name="joinConditionQualification" value="Never" />
+    <option name="namespaceQualification" value="Never" />
+    <option name="tableQualification" value="Never" />
+  </component>
 </application>
