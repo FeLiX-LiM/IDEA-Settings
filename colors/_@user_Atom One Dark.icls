@@ -4,7 +4,7 @@
     <property name="created">2019-07-22T10:34:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2020-02-03T18:11:16</property>
+    <property name="modified">2020-03-06T16:58:05</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="NotoMono Nerd Font" />
