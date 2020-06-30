@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.bak;*.hprof;*.iml;*.log;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.project;.settings;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="线上地址.txt" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="properities" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
@@ -17,6 +17,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
