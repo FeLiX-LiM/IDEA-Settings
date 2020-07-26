@@ -21,8 +21,8 @@
     <mask>*-dev.yml</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
