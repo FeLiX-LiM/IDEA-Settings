@@ -16,13 +16,13 @@
     <mask>*.html,*.js</mask>
     <mask>*Register.java</mask>
     <mask>*Departure.java</mask>
-    <mask>*.yml</mask>
     <mask>*-dev.xml</mask>
     <mask>*-dev.yml</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
+    <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
