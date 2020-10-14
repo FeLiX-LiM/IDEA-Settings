@@ -9,7 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.scss</mask>
     <mask>*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.properties</mask>
@@ -24,5 +23,6 @@
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
