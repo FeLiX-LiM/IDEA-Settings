@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.jsp</mask>
@@ -26,5 +25,6 @@
     <mask>*.scss</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*-hzl.yml</mask>
   </component>
 </application>
