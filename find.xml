@@ -23,8 +23,8 @@
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*-hzl.yml</mask>
     <mask>*.html</mask>
+    <mask>*.java</mask>
   </component>
 </application>
