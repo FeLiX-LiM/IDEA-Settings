@@ -7,10 +7,10 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.jsp</mask>
-    <mask>*.css</mask>
     <mask>*.html,*.js</mask>
     <mask>*Register.java</mask>
     <mask>*Departure.java</mask>
@@ -27,5 +27,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
