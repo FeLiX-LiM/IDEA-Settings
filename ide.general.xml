@@ -1,7 +1,9 @@
 <application>
   <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="inactiveTimeout" value="10" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="searchInBackground" value="true" />
@@ -15,6 +17,7 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.tree.collapse.recursively" value="false" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
