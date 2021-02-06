@@ -1,0 +1,39 @@
+<application>
+  <component name="uk.org.oliveira.fold.VirtualFoldingState">
+    <option name="componentTypes">
+      <array>
+        <option value="component" />
+        <option value="effects" />
+        <option value="service" />
+        <option value="guard" />
+        <option value="reducers" />
+        <option value="pipe" />
+        <option value="selectors" />
+        <option value="actions" />
+        <option value="directive" />
+      </array>
+    </option>
+    <option name="extensionTypes">
+      <array>
+        <option value="cs" />
+        <option value="cpp" />
+        <option value="css" />
+        <option value="java" />
+        <option value="c" />
+        <option value="scss" />
+        <option value="xml" />
+        <option value="tsx" />
+        <option value="js" />
+        <option value="py" />
+        <option value="html" />
+        <option value="ts" />
+      </array>
+    </option>
+    <option name="specTypes">
+      <array>
+        <option value="test" />
+        <option value="spec" />
+      </array>
+    </option>
+  </component>
+</application>
