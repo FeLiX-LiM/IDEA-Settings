@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="createToken method implementation returned null. A valid non-null AuthenticationToken &quot; + &quot;must be created in order to execute a login attempt." />
       <item value="社区民警" />
       <item value="Party" />
       <item value="Biz Situation Party Mapper" />
@@ -21,7 +22,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
