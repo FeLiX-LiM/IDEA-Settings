@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.jsp</mask>
@@ -20,7 +19,6 @@
     <mask>*.properties</mask>
     <mask>*-hzl.yml</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.yml</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
@@ -28,5 +26,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
