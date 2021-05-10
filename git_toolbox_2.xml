@@ -1,5 +1,7 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="commitDialogGitmojiCompletion" value="true" />
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
@@ -20,6 +22,6 @@
       </list>
     </option>
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="version" value="4" />
   </component>
 </application>
