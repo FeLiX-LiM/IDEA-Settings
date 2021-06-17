@@ -11,13 +11,17 @@
           <option name="type" value="STATUS" />
         </DecorationPartConfig>
         <DecorationPartConfig>
+          <option name="prefix" value="/ " />
+          <option name="type" value="CHANGED_COUNT" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="prefix" value="- " />
+          <option name="type" value="LOCATION" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
           <option name="postfix" value=")" />
           <option name="prefix" value="(" />
           <option name="type" value="TAGS_ON_HEAD" />
-        </DecorationPartConfig>
-        <DecorationPartConfig>
-          <option name="prefix" value="/ " />
-          <option name="type" value="CHANGED_COUNT" />
         </DecorationPartConfig>
       </list>
     </option>
