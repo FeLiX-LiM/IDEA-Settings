@@ -18,7 +18,6 @@
     <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>*-hzl.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
@@ -28,5 +27,6 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
