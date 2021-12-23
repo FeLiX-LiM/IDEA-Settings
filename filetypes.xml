@@ -3,6 +3,7 @@
     <ignoreFiles list="*.log;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;logs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="view" type="AUTO_DETECTED" />
+      <mapping pattern="查访任务 - 地址列表" type="AUTO_DETECTED" />
       <mapping pattern="yw_bzdz_gzjl" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
