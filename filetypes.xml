@@ -5,6 +5,7 @@
       <mapping pattern="view" type="AUTO_DETECTED" />
       <mapping pattern="查访任务 - 地址列表" type="AUTO_DETECTED" />
       <mapping pattern="yw_bzdz_gzjl" type="AUTO_DETECTED" />
+      <mapping pattern="mono-user,md" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
