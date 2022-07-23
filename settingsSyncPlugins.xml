@@ -68,6 +68,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="String Manipulation">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.yiiguxing.plugin.md.palette">
           <value>
             <PluginData>
@@ -333,6 +344,11 @@
               </option>
               <option name="enabled" value="false" />
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.remote-run">
